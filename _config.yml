@@ -82,7 +82,7 @@ theme_mode:  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.ibb.co/wr0prTQ/head.jpg
+avatar: https://i.ibb.co/L5TMLJZ/android-chrome-144x144.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true

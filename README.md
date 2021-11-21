@@ -1,5 +1,6 @@
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
+![android-chrome-144x144](https://user-images.githubusercontent.com/35107934/142747938-44547743-cfd6-4b09-ac6d-afb73fce1c4d.png)
 
 [live demo](https://chirpy.cotes.info/posts/customize-the-favicon/)
 

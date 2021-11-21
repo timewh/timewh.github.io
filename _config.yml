@@ -18,9 +18,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: TIME WH                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Do you like, Do your self!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -34,7 +34,7 @@ github:
   username: timewh             # change to your github username
 
 twitter:
-  username: will            # change to your twitter username
+  username: will75575009            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +43,7 @@ social:
   email: 15802169408@126.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/will      # change to your twitter homepage
+    - https://twitter.com/will75575009      # change to your twitter homepage
     - https://github.com/timewh       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
